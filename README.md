@@ -6,7 +6,7 @@ CME4  is  said  to  cost estimation  tool type-4  which is  invented  by  wilmix
 for  estimating  RemoteWebapplication and   Highly  Advanced  Technology   used  in  WRIT or  SIT field.   
 
 
-We  already  know  by  rogerpressman  but  cost estimation about remotewebapplication   is  not  included...
+We  already  know  by richard fairley software  engineering book but  cost estimation about remotewebapplication   is  not  included...
 
 
 
