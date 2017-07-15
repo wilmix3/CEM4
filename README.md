@@ -19,7 +19,8 @@ IF  Remotewebapplication  project  is  said  to be  normal....
 PM =  7.5  *  (0.512) POW   1.12 
 
 TDEV =  2.5 * (PM) POW  0.32
-                                 ====>  1
+                              
+                                  ====> equation 1
 
 TOTAL  NO  OF  PERSONS  =   PM /TDEV
 
@@ -34,7 +35,7 @@ PM =  7.5  *  (0.512) POW   1.12
 
 TDEV =  2.5 * (PM) POW  0.32
 
-                                 =====> 2
+                                 =====>equation 2
 
 
 If  some  1/2  of  the    project   is normal  and 1/2  of  the  project  is  risk
