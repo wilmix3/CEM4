@@ -31,9 +31,9 @@ for  eg)   if  you   use  CH$  technology  in  your project.
 
 IF  Remotewebapplication  project  is  said  to be  Risk....
 
-PM =  7.5  *  (0.512) POW   1.12 
+PM =  7.5  *  (0.512) POW   1.20
 
-TDEV =  2.5 * (PM) POW  0.32
+TDEV =  2.5 * (PM) POW  0.38
 
                                  =====>equation 2
 
